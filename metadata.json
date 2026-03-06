@@ -1,0 +1,5 @@
+{
+  "name": "Customizable Landing Page",
+  "description": "A fully customizable landing page driven by a JSON configuration file.",
+  "requestFramePermissions": []
+}
