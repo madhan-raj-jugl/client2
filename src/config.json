@@ -1,0 +1,40 @@
+{
+  "logoUrl": "https://lucide.dev/logo.svg",
+  "themeColor": "#4f46e5",
+  "hero": {
+    "title": "Build Your Vision with Ease",
+    "subtitle": "A fully customizable landing page template that adapts to your brand identity in seconds.",
+    "ctaText": "Get Started",
+    "imageUrl": "https://picsum.photos/seed/landing/1200/800"
+  },
+  "features": [
+    {
+      "title": "JSON Driven",
+      "description": "Change your entire website's look and feel by simply editing a single JSON file.",
+      "icon": "Settings"
+    },
+    {
+      "title": "Responsive Design",
+      "description": "Your landing page looks great on every device, from mobile to desktop.",
+      "icon": "Smartphone"
+    },
+    {
+      "title": "Modern Aesthetic",
+      "description": "Built with the latest design trends using Tailwind CSS and Motion.",
+      "icon": "Zap"
+    }
+  ],
+  "about": {
+    "title": "About Our Platform",
+    "text": "We believe that building a web presence should be as simple as editing a document. Our JSON-driven architecture allows you to focus on your content while we handle the presentation.",
+    "imageUrl": "https://picsum.photos/seed/about/800/600"
+  },
+  "footer": {
+    "copyright": "© 2024 Customizable Landing Page. All rights reserved.",
+    "links": [
+      { "label": "Privacy Policy", "url": "#" },
+      { "label": "Terms of Service", "url": "#" },
+      { "label": "Contact Us", "url": "#" }
+    ]
+  }
+}
